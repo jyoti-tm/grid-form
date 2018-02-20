@@ -1,0 +1,9 @@
+
+{
+ "source": "./src/scripts",
+ "destination": "./out/esdoc",
+ "manual": {
+  "overview": ["./manual/overview.md"]
+},
+"lint": true
+}

@@ -1,3 +1,14 @@
+/**
+    Author : Jyoti Kumari
+    Update By : None
+    Dated : 20/02/2018
+    Company : Teramatrix Technologies Pvt. Ltd.
+    ClassName : FormErrors
+    Description : This class which simply iterates through all the form validations errors and displays them.
+*/
+
+
+
 import React from 'react';
 
 /**

@@ -1,3 +1,14 @@
+
+/**
+    Author : Jyoti Kumari
+    Update By : None
+    Dated : 20/02/2018
+    Company : Teramatrix Technologies Pvt. Ltd.
+    ClassName : UserList
+    Description : This class is for displaying list of users who are registered. Data will get show in the kendo grid.
+*/
+
+
 import React from 'react';
 // import { Grid, GridColumn as Column } from '@progress/kendo-react-grid';
 import kendo from '@progress/kendo-ui';

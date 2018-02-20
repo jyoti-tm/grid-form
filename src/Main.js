@@ -1,3 +1,15 @@
+
+/**
+    Author : Jyoti Kumari
+    Update By : None
+    Dated : 20/02/2018
+    Company : Teramatrix Technologies Pvt. Ltd.
+    ClassName : Main
+    Description : This class is for routing, on click of a buttons in the header, it will route to the respective views.
+*/
+
+
+
 import React from 'react'
 import { Switch, Route, Link } from 'react-router-dom'
 import Form from './scripts/Form'

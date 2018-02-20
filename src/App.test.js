@@ -1,3 +1,12 @@
+/**
+    Author : Jyoti Kumari
+    Update By : None
+    Dated : 20/02/2018
+    Company : Teramatrix Technologies Pvt. Ltd.    
+    Description : This is a crash report for App 
+*/
+
+
 import React from 'react';
 import ReactDOM from 'react-dom';
 import App from './App';

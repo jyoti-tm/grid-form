@@ -1,3 +1,14 @@
+
+/**
+    Author : Jyoti Kumari
+    Update By : None
+    Dated : 20/02/2018
+    Company : Teramatrix Technologies Pvt. Ltd.
+    ClassName : App
+    Description : This class is rendering the Main component
+*/
+
+
 import React, { Component } from 'react';
 import './assets/css/App.css';
 import Main from './Main'

@@ -1,3 +1,12 @@
+/**
+    Author : Jyoti Kumari
+    Update By : None
+    Dated : 20/02/2018
+    Company : Teramatrix Technologies Pvt. Ltd.
+    ClassName : Form
+    Description : This class is for  user to register himself/herself, the details of user will get store in localstorage
+*/
+
 /*eslint-disable*/
 import React, { Component } from 'react';
 import { FormErrors } from './FormErrors';
@@ -46,11 +55,16 @@ class Form extends Component {
         }
         this.onSubmit = this.onSubmit.bind(this);
     }
-    // function to select and pass the country value
+    /**
+        *function to select and pass the country value
+    */
     selectCountry (val) {
         this.setState({ country: val });
     }
-    // select the state and pass the value of particular country
+    /**
+        *select the state and pass the value of particular country
+    */
+    
     selectRegion (val) {
         this.setState({ region: val });
     }
